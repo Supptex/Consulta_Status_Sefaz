@@ -6,6 +6,7 @@ Invocar o arquivo exibe o status da NFe e NFCe da sefaz de todos os estados;
 Invocar com parâmetros de URL ?estado=PE&servico=nfe exibe status do respectivo estado e serviço.
 
 Exemplos:
+
 https://supptex.com.br/statussefaz/?estado=PE&servico=nfe
 
 https://supptex.com.br/statussefaz/?estado=AM&servico=nfce
